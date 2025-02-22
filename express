@@ -1,1 +1,6 @@
+// Array destructuring assignment
+const [first, second, third] = ['apple', 'banana', 'cherry'];
 
+console.log(first);   // Outputs: apple
+console.log(second);  // Outputs: banana
+console.log(third);   // Outputs: cherry
